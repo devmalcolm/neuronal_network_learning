@@ -33,3 +33,8 @@ Here a representation of my neuronal system with Input Layer, Hidden
 <img width="1346" alt="Screenshot 2021-12-17 at 6 21 17 PM" src="https://user-images.githubusercontent.com/96392276/146875600-38bb4795-fb36-4569-a313-fb65589df115.png">
 Layer, and Output Layer.
 
+So in blue is the weights, when we start our AI we need to attribute random weights to our synapse. 
+weights = W1
+Once our W1 has a random values when can train our program to get some results (real result).
+
+Backpropagation coming soon...
