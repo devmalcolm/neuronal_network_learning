@@ -1,4 +1,4 @@
-# neuronal_network_learning
+Zaqo's Machine Learning Training
 
 This project is not finished.
 
