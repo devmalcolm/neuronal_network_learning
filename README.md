@@ -1,4 +1,6 @@
-Zaqo's Machine Learning Training
+# Zaqo's Machine Learning Training
+
+<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
 
 This project is not finished.
 
